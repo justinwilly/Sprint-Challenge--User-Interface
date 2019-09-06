@@ -38,11 +38,11 @@ Semantic HTML adds meaning to the code and what the tags represent instead of us
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
-display: block == has some whitespace above and blow and tolerats not HTML elements next to it expect when ordered otherwise.  Display: inline == the element is displayed in the current block on the same line.
+display: block == has some whitespace above and below and tolerats not HTML elements next to it expect when ordered otherwise.  Display: inline == the element is displayed in the current block on the same line.
 
 3. What are the 4 areas of the box model?
 
-the content edge, padding edge, border edge, and margin edge
+the content , padding , border , and margin 
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
