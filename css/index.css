@@ -56,9 +56,10 @@ table {
 header nav {
 	display: flex;
 	flex-flow: row nowrap;
-	width: 700px;
 	vertical-align: top;
-	margin-top: 35px;
+    margin-top: 20px;
+    align-items: baseline;
+    justify-content: center;
   }
   
   header {
@@ -66,7 +67,8 @@ header nav {
   }
   
   header nav a {
-	margin-right: 65px;
+    margin-right: 44px;
+    margin-left: 44px;
 	font-size: 14px;
 	color: black;
 	text-decoration: none;
@@ -86,7 +88,8 @@ header nav {
   
   header .logo {
     display: flex;
-    margin-left: 25px;
+    margin-left: 0px;
+    margin-right: 0px;
   }
 
 
@@ -108,6 +111,12 @@ p {
 .container {
     width: 800px;
     margin: 0 auto;
+}
+
+.top-banner {
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .top-content {
@@ -143,12 +152,52 @@ p {
 .middle-content .boxes .box {
     width: 12.5%;
     height: 100px;
-    background: black;
+
     margin: 20px 2.5%;
     color: white;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.box1 {
+    background: teal;
+}
+
+.box2 {
+    background: gold;
+}
+
+.box3 {
+    background: cadetblue;
+}
+
+.box4 {
+    background: coral;
+}
+
+.box5 {
+    background: crimson;
+}
+
+.box6 {
+    background: forestgreen;
+}
+
+.box7 {
+    background: darkorchid;
+}
+
+.box8 {
+    background: hotpink;
+}
+
+.box9 {
+    background: indigo;
+}
+
+.box10 {
+    background: dodgerblue;
 }
 
 .bottom-content {
