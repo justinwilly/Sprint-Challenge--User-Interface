@@ -38,11 +38,11 @@ Semantic HTML adds meaning to the code and what the tags represent instead of us
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
-display: block == has some whitespace above and below and tolerats not HTML elements next to it expect when ordered otherwise.  Display: inline == the element is displayed in the current block on the same line.
+display: block == has some whitespace above and blow and tolerats not HTML elements next to it expect when ordered otherwise.  Display: inline == the element is displayed in the current block on the same line.
 
 3. What are the 4 areas of the box model?
 
-the content , padding , border , and margin 
+the content edge, padding edge, border edge, and margin edge
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
@@ -51,6 +51,8 @@ the center of the cross axis, By default the cross axis is vertical so this mean
 5. Explain why git is valuable to a team of developers.
 
 So everyone can work on the same projects at the same time and the information is stored in the cloud rather than personal locations.
+
+You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
 ## Project Set Up
 
